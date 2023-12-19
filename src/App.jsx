@@ -8,6 +8,8 @@ import Portfolio from './components/portfolio/Portfolio'
 import Testimonials from './components/testimonials/Testimonials'
 import Contact from './components/Contact/Contact'
 import Footer from './components/footer/Footer'
+import { BsArrowDownCircle } from 'react-icons/bs';
+
 
 const App = () => {
   return (
